@@ -1,0 +1,14 @@
+{
+  "name": "hnefatafl",
+  "version": "1.0.0",
+  "description": "Viking Chess Game",
+  "main": "index.js",
+  "repository": "https://github.com/irichard03/hnefatafl.git",
+  "author": "Ian Richard <ianrichard03@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
+}
